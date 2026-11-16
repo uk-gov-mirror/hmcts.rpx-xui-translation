@@ -7,6 +7,18 @@
       "reportType": "functional",
       "rawBranch": "master",
       "branchSlug": "master",
+      "runKey": "43920841166-attempt-1",
+      "runId": "43920841166",
+      "runAttempt": "1",
+      "sha": "c77dd00c54889110bb43fe67d13fd8dfd5d921d5",
+      "runUrl": "https://github.com/uk-gov-mirror/hmcts.rpx-xui-translation/actions/runs/43920841166/attempts/1",
+      "createdAt": "2026-11-16T18:12:05.785Z"
+    },
+    {
+      "schemaVersion": 2,
+      "reportType": "functional",
+      "rawBranch": "master",
+      "branchSlug": "master",
       "runKey": "43493082395-attempt-1",
       "runId": "43493082395",
       "runAttempt": "1",
